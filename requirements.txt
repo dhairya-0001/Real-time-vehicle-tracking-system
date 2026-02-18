@@ -1,0 +1,10 @@
+ultralytics
+torch
+opencv-python
+fastapi
+uvicorn
+numpy
+pydantic
+pyyaml
+python-multipart
+jinja2
