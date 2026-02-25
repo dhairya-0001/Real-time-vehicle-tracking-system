@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* Additional custom styles if Tailwind is insufficient */
+body {
+    background-color: #0f172a;
+    color: white;
+}
+
+#video-feed {
+    background: #000;
+    width: 100%;
+    height: 100%;
+}
